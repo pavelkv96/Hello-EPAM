@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="click_to_get_toast">Click to get Toast</string>
+</resources>
